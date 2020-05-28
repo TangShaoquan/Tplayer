@@ -1,0 +1,43 @@
+﻿  Tplayer.cpp
+C:\Users\唐绍权\Desktop\Tplayer\Tplayer\Tplayer\Tplayer.cpp(30,24): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\唐绍权\Desktop\Tplayer\Tplayer\Tplayer\Tplayer.cpp(217,45): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\唐绍权\Desktop\Tplayer\Tplayer\Tplayer\Tplayer.cpp(240,45): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\唐绍权\Desktop\Tplayer\Tplayer\Tplayer\Tplayer.cpp(363,39): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\唐绍权\Desktop\Tplayer\Tplayer\Tplayer\Tplayer.cpp(367,39): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\唐绍权\Desktop\Tplayer\Tplayer\Tplayer\Tplayer.cpp(371,35): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\唐绍权\Desktop\Tplayer\Tplayer\Tplayer\Tplayer.cpp(577,5): error C2065: “IFileDialog”: 未声明的标识符
+C:\Users\唐绍权\Desktop\Tplayer\Tplayer\Tplayer\Tplayer.cpp(577,18): error C2065: “pfd”: 未声明的标识符
+C:\Users\唐绍权\Desktop\Tplayer\Tplayer\Tplayer\Tplayer.cpp(578,35): error C2065: “CLSID_FileOpenDialog”: 未声明的标识符
+C:\Users\唐绍权\Desktop\Tplayer\Tplayer\Tplayer\Tplayer.cpp(580,9): error C2065: “CLSCTX_INPROC_SERVER”: 未声明的标识符
+C:\Users\唐绍权\Desktop\Tplayer\Tplayer\Tplayer\Tplayer.cpp(581,23): error C2065: “pfd”: 未声明的标识符
+C:\Users\唐绍权\Desktop\Tplayer\Tplayer\Tplayer\Tplayer.cpp(581,9): error C3861: “IID_PPV_ARGS”: 找不到标识符
+C:\Users\唐绍权\Desktop\Tplayer\Tplayer\Tplayer\Tplayer.cpp(578,18): error C3861: “CoCreateInstance”: 找不到标识符
+C:\Users\唐绍权\Desktop\Tplayer\Tplayer\Tplayer\Tplayer.cpp(584,10): error C2065: “pfd”: 未声明的标识符
+C:\Users\唐绍权\Desktop\Tplayer\Tplayer\Tplayer\Tplayer.cpp(585,10): error C2065: “pfd”: 未声明的标识符
+C:\Users\唐绍权\Desktop\Tplayer\Tplayer\Tplayer\Tplayer.cpp(585,36): error C2065: “FOS_FORCEFILESYSTEM”: 未声明的标识符
+C:\Users\唐绍权\Desktop\Tplayer\Tplayer\Tplayer\Tplayer.cpp(589,5): error C2065: “COMDLG_FILTERSPEC”: 未声明的标识符
+C:\Users\唐绍权\Desktop\Tplayer\Tplayer\Tplayer\Tplayer.cpp(589,23): error C2146: 语法错误: 缺少“;”(在标识符“rgSpec”的前面)
+C:\Users\唐绍权\Desktop\Tplayer\Tplayer\Tplayer\Tplayer.cpp(589,23): error C2065: “rgSpec”: 未声明的标识符
+C:\Users\唐绍权\Desktop\Tplayer\Tplayer\Tplayer\Tplayer.cpp(589,30): error C2059: 语法错误:“]”
+C:\Users\唐绍权\Desktop\Tplayer\Tplayer\Tplayer\Tplayer.cpp(590,5): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\唐绍权\Desktop\Tplayer\Tplayer\Tplayer\Tplayer.cpp(591,28): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+C:\Users\唐绍权\Desktop\Tplayer\Tplayer\Tplayer\Tplayer.cpp(591,29): error C2059: 语法错误:“,”
+C:\Users\唐绍权\Desktop\Tplayer\Tplayer\Tplayer\Tplayer.cpp(592,9): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\唐绍权\Desktop\Tplayer\Tplayer\Tplayer\Tplayer.cpp(592,28): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+C:\Users\唐绍权\Desktop\Tplayer\Tplayer\Tplayer\Tplayer.cpp(592,29): error C2059: 语法错误:“,”
+C:\Users\唐绍权\Desktop\Tplayer\Tplayer\Tplayer\Tplayer.cpp(593,9): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\唐绍权\Desktop\Tplayer\Tplayer\Tplayer\Tplayer.cpp(593,26): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+C:\Users\唐绍权\Desktop\Tplayer\Tplayer\Tplayer\Tplayer.cpp(593,27): error C2059: 语法错误:“,”
+C:\Users\唐绍权\Desktop\Tplayer\Tplayer\Tplayer\Tplayer.cpp(596,67): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\唐绍权\Desktop\Tplayer\Tplayer\Tplayer\Tplayer.cpp(596,67): error C2143: 语法错误: 缺少“,”(在“*”的前面)
+C:\Users\唐绍权\Desktop\Tplayer\Tplayer\Tplayer\Tplayer.cpp(597,10): error C2065: “pfd”: 未声明的标识符
+C:\Users\唐绍权\Desktop\Tplayer\Tplayer\Tplayer\Tplayer.cpp(597,28): error C2065: “rgSpec”: 未声明的标识符
+C:\Users\唐绍权\Desktop\Tplayer\Tplayer\Tplayer\Tplayer.cpp(597,47): error C2065: “rgSpec”: 未声明的标识符
+C:\Users\唐绍权\Desktop\Tplayer\Tplayer\Tplayer\Tplayer.cpp(598,10): error C2065: “pfd”: 未声明的标识符
+C:\Users\唐绍权\Desktop\Tplayer\Tplayer\Tplayer\Tplayer.cpp(600,10): error C2065: “pfd”: 未声明的标识符
+C:\Users\唐绍权\Desktop\Tplayer\Tplayer\Tplayer\Tplayer.cpp(602,5): error C2065: “IShellItem”: 未声明的标识符
+C:\Users\唐绍权\Desktop\Tplayer\Tplayer\Tplayer\Tplayer.cpp(602,17): error C2065: “pShellItem”: 未声明的标识符
+C:\Users\唐绍权\Desktop\Tplayer\Tplayer\Tplayer\Tplayer.cpp(605,14): error C2065: “pfd”: 未声明的标识符
+C:\Users\唐绍权\Desktop\Tplayer\Tplayer\Tplayer\Tplayer.cpp(605,30): error C2065: “pShellItem”: 未声明的标识符
+C:\Users\唐绍权\Desktop\Tplayer\Tplayer\Tplayer\Tplayer.cpp(606,14): error C2065: “pShellItem”: 未声明的标识符
+C:\Users\唐绍权\Desktop\Tplayer\Tplayer\Tplayer\Tplayer.cpp(606,41): error C2065: “SIGDN_DESKTOPABSOLUTEPARSING”: 未声明的标识符
